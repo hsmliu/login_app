@@ -71,8 +71,8 @@ class LoginScreen extends StatelessWidget {
                     height: 16,
                   ),
                   CustomTextField(
-                      icon: CupertinoIcons.mail,
-                      hint: 'Email',
+                      icon: CupertinoIcons.lock,
+                      hint: 'Password',
                       gradientColors: [
                         Color(0xFF4A154B),
                         Color(0xFF6B1A6B),
